@@ -8,3 +8,8 @@ body {
     background: azure;
     color: purple;
 }
+
+canvas {
+    width: 100%;
+    height: 100%;
+  }
